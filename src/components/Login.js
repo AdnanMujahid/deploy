@@ -32,7 +32,7 @@ function Login() {
   return (
     <div style={containerStyle}>
       <form onSubmit={handleSubmit} style={formStyle}>
-        <h2 style={headingStyle}>🔐 Login</h2>
+        <h2 style={headingStyle}>🔐 Login V2</h2>
 
         <input
           name="username"
